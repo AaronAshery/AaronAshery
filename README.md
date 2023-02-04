@@ -1,4 +1,7 @@
-### Hey! I'm Aaron! 
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-flux-capacitor.svg)](https://forthebadge.com) 
+![](https://komarev.com/ghpvc/?username=AaronAshery&style=plastic)
+### Hey! I'm Aaron!  
 
 * :man_student: :school: Graduating in May 2023 with degrees from Columbia University & Sarah Lawrence College
 * 🔭💻 Currently working on helping others and developing my own open source projects
@@ -24,4 +27,9 @@ Here are some ideas to get you started:
 
 I am currently in my final semester of undergraduate studies at Columbia University. Previously I attended Sarah Lawrence College where I had the oppurtunity to play division III soccer and began liberal arts studies. It was at Sarah Lawrence where I was introduced to computer science and I never looked back. Being a huge sports fan I have a lot fun mixing computer science with the world of sports. I would love to collaborate with anybody who likes to do the same!
 
+
+![Gamecube](https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white)
+
 -->
+
+

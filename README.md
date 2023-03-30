@@ -29,6 +29,7 @@ I am currently in my final semester of undergraduate studies at Columbia Univers
 
 
 ![Gamecube](https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AaronAshery&show_icons=true&locale=en&layout=compact" alt="AaronAshery" /></p>
 
 -->
 

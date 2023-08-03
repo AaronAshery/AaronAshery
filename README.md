@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=AaronAshery&style=plastic)
 ### Hey! I'm Aaron!  
 
-* :man_student: :school: Graduating in May 2023 with degrees from Columbia University & Sarah Lawrence College
+* :man_student: :school: Graduated in May 2023 with degrees from Columbia University & Sarah Lawrence College
 * 🔭💻 Currently working on helping others and developing my own open source projects
 * :soccer: :football: Played soccer my entire life, huge fan of all sports
 * :link: :page_with_curl: Learn more about my experiences on my [LinkedIn](https://www.linkedin.com/in/aaron-ashery/ "LinkedIn")

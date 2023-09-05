@@ -1,5 +1,5 @@
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-flux-capacitor.svg)](https://forthebadge.com) 
+![Gamecube](https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white)
 ![](https://komarev.com/ghpvc/?username=AaronAshery&style=plastic)
 ### Hey! I'm Aaron!  
 
